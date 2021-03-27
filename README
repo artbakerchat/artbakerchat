@@ -1,10 +1,19 @@
-Welcome
+# Welcome
 
 👋✨✨🔭🌱👯🤔💬📫😄⚡
 
-### ⚡ Fun fact: Larboard Canada
+## ⚡ Fun fact: Larboard Canada
 
-Autonomous Interview
+Autonomous Wing
 
-https://github.com/udacity/FCND-FixedWing
+[Here](https://github.com/udacity/FCND-FixedWing)
+
+'''
+if bowl is empty
+  put milk and cereal
+if bowl is milk and cereal
+  put a strawberry
+if bow is milk, cereal & strawberry
+  pull strawberry
+'''
 
