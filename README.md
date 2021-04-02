@@ -16,8 +16,5 @@ if bow is milk, cereal & strawberry
   pull strawberry
 ```
 
-## My GitHub Link
+The complement of an event, $ {A^c} $, means that the event does not happen.
 
-[artbakerchat](https://github.com/artbakerchat/)
-[jkstarclub](https://github.com/jkstarclub/)
-[jkim834](https://github.com/jkim834/)
