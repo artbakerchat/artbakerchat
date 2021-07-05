@@ -1,6 +1,6 @@
-# Welcome to GitHub
+# Welcome
 
-this language
+fruits = [python, python1, python2]
 
 variables, conditionals, arithmetic, basic syntax, and string manipulation
 
