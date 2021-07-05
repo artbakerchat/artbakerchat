@@ -23,9 +23,9 @@ if bow is milk, cereal & strawberry
 
 ```
 
-    the event does happen
+    fruits.append('strawberry')
 
 ```
 
-ok
+yes
 
