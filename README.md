@@ -20,7 +20,7 @@ if bowl is milk and cereal
   put a strawberry
 if bow is milk, cereal & strawberry
   pull strawberry
-```
 
+```
 the event does happen.
 
