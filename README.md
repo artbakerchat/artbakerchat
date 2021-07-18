@@ -27,5 +27,3 @@ if bow is milk, cereal & strawberry
 
 ```
 
-yes
-
